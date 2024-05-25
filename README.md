@@ -28,6 +28,7 @@ This project uses several methods and products to optimize your workflow.
 - Use a version control system (**GitHub**) to track your changes and collaborate with others.
 - Use a cloud LLM (**ChatGPT**) to facilitate shaping and writing playbook and runbooks.
 - Use a Python LLM-enabled CLI (**Aider.chat**) to facilitate coding.
+- Use a CLI (**restish**) to interact with an API endpoint.
 - Use a compiler (**Go**) to compile the source code into a distributable file.
 - Use a build tool (**Makefile**) to automate your build tasks.
 - Use a containerization platform (**Docker**) to run your application in any environment.
